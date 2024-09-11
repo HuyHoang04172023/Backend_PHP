@@ -1,7 +1,7 @@
 <?php
 
-function rectArea($long = 1, $wide = 1){
-    return $long * $wide;
+function rectArea($length = 1, $width = 1){
+    return $length * $width;
 }
 
 echo rectArea(5,6).'<br>';

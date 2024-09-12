@@ -1,22 +1,17 @@
-<?php
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="test.php" method="POST">
+        <input type="text" name="username" id="username"><br>
+        <input type="text" name="password" id="password"><br>
 
-include "test2.php";
-$number1 = 1;
-$number2 = 2;
+        <input type="submit" value="Insert">
 
-function Sum()
-{
-    return $GLOBALS['number1'] + $GLOBALS['number2'] + $GLOBALS['number3'];
-} 
-
-function test(){
-    static $a = 0;
-    echo $a;
-    $a++;
-}
-
-for($temp = 0 ; $temp < 10; $temp++){
-    test();
-}
-
-?>
+    </form>
+</body>
+</html>

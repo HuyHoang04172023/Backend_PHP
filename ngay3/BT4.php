@@ -10,6 +10,6 @@ function factorial($num){
     }
 }
 
-echo factorial(4);
+echo factorial(5);
 
 ?>

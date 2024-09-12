@@ -2,7 +2,6 @@
 
 function isPalindrome($string) {
     $reversedString = strrev($string);
-    $check = false;
     if ($string === $reversedString) {
         echo "$string is palindrome.";
     } else {
@@ -11,7 +10,7 @@ function isPalindrome($string) {
     echo "<br>";
 }
 
-isPalindrome("radar");
-isPalindrome("aiusdahsid");
+isPalindrome("madam");
+isPalindrome("hello");
 
 ?>

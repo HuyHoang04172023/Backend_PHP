@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\test\\ngay10\\BT.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ngay10\\BT.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\test\\ngay6\\BT3.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ngay6\\BT3.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\test\\ngay6\\BT1.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ngay6\\BT1.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\test\\ngay6\\BT2.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ngay6\\BT2.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\test\\ngay5\\BT4.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ngay5\\BT4.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\test\\ngay5\\BT3.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ngay5\\BT3.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\test\\ngay5\\BT2.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ngay5\\BT2.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\test\\ngay5\\BT1.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ngay5\\BT1.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\test\\ngay9\\BT4.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ngay9\\BT4.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\test\\ngay9\\BT3.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ngay9\\BT3.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\test\\ngay9\\BT2.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ngay9\\BT2.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\test\\ngay9\\BT1.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ngay9\\BT1.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\test\\ngay8\\BT4.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ngay8\\BT4.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\test\\ngay8\\BT1_BT2.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ngay8\\BT1_BT2.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BT.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\test\\ngay10\\BT.php",
+              "RelativeDocumentMoniker": "ngay10\\BT.php",
+              "ToolTip": "C:\\xampp\\htdocs\\test\\ngay10\\BT.php",
+              "RelativeToolTip": "ngay10\\BT.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrVOtyoRAFD1\u002BGAxGg8HgQxiMgsU38CF8FINpoxi1Gw2\u002BgFEwGBQ0ChaDQZhvZphv15\u002BFBfc7cMa51ztnzr0wUuATgpt4ZHQRArfIzv7QzROmaXLKsiwygKIo0HVdRFccBJqmQZIk6LoOQRDAcRyey/McZVmKqhP2LdCD/GvbNmnbloRhSKIoItQR8X2fqKr6rGW8tKBpGnfAmGUZ4jgGFcM8z/A8D\u002Bu6isod9g6GYSB0BoQK8dh1XR7TOXBHzNlfLePFwbZt6Pse0zTxmA2vKAqkaYplWVDXNc8fsHdgGMbhBkbmxrIs7uL87\u002BJgHEexe4G5qarqff8UB4E7\u002BF8BQsdx5iccBCRJuvATvm7hq\u002BcMAL/7zbPTrNNOFAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-16T09:23:52.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BT2.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\test\\ngay6\\BT2.php",
+              "RelativeDocumentMoniker": "ngay6\\BT2.php",
+              "ToolTip": "C:\\xampp\\htdocs\\test\\ngay6\\BT2.php",
+              "RelativeToolTip": "ngay6\\BT2.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrVOtyoRAFD1\u002BGAxGg8HgQxiMgsU38CF8FINpoxi1Gw2\u002BgFEwGBQ0ChaDQZhvZphv15\u002BFBfc7cMa51ztnzr0wUuATgpt4ZHQRArfIzv7QzROmaXLKsiwygKIo0HVdRFccBJqmQZIk6LoOQRDAcRyey/McZVmKqhP2LdCD/GvbNmnbloRhSKIoItQR8X2fqKr6rGW8tKBpGnfAmGUZ4jgGFcM8z/A8D\u002Bu6isod9g6GYSB0BoQK8dh1XR7TOXBHzNlfLePFwbZt6Pse0zTxmA2vKAqkaYplWVDXNc8fsHdgGMbhBkbmxrIs7uL87\u002BJgHEexe4G5qarqff8UB4E7\u002BF8BQsdx5iccBCRJuvATvm7hq\u002BcMAL/7zbPTrNNOFAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-16T08:30:35.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BT4.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\test\\ngay5\\BT4.php",
+              "RelativeDocumentMoniker": "ngay5\\BT4.php",
+              "ToolTip": "C:\\xampp\\htdocs\\test\\ngay5\\BT4.php",
+              "RelativeToolTip": "ngay5\\BT4.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrVOtyoRAFD1\u002BGAxGg8HgQxiMgsU38CF8FINpoxi1Gw2\u002BgFEwGBQ0ChaDQZhvZphv15\u002BFBfc7cMa51ztnzr0wUuATgpt4ZHQRArfIzv7QzROmaXLKsiwygKIo0HVdRFccBJqmQZIk6LoOQRDAcRyey/McZVmKqhP2LdCD/GvbNmnbloRhSKIoItQR8X2fqKr6rGW8tKBpGnfAmGUZ4jgGFcM8z/A8D\u002Bu6isod9g6GYSB0BoQK8dh1XR7TOXBHzNlfLePFwbZt6Pse0zTxmA2vKAqkaYplWVDXNc8fsHdgGMbhBkbmxrIs7uL87\u002BJgHEexe4G5qarqff8UB4E7\u002BF8BQsdx5iccBCRJuvATvm7hq\u002BcMAL/7zbPTrNNOFAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-16T05:52:05.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BT3.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\test\\ngay5\\BT3.php",
+              "RelativeDocumentMoniker": "ngay5\\BT3.php",
+              "ToolTip": "C:\\xampp\\htdocs\\test\\ngay5\\BT3.php",
+              "RelativeToolTip": "ngay5\\BT3.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrVOtyoRAFD1\u002BGAxGg8HgQxiMgsU38CF8FINpoxi1Gw2\u002BgFEwGBQ0ChaDQZhvZphv15\u002BFBfc7cMa51ztnzr0wUuATgpt4ZHQRArfIzv7QzROmaXLKsiwygKIo0HVdRFccBJqmQZIk6LoOQRDAcRyey/McZVmKqhP2LdCD/GvbNmnbloRhSKIoItQR8X2fqKr6rGW8tKBpGnfAmGUZ4jgGFcM8z/A8D\u002Bu6isod9g6GYSB0BoQK8dh1XR7TOXBHzNlfLePFwbZt6Pse0zTxmA2vKAqkaYplWVDXNc8fsHdgGMbhBkbmxrIs7uL87\u002BJgHEexe4G5qarqff8UB4E7\u002BF8BQsdx5iccBCRJuvATvm7hq\u002BcMAL/7zbPTrNNOFAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-16T05:51:54.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BT2.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\test\\ngay5\\BT2.php",
+              "RelativeDocumentMoniker": "ngay5\\BT2.php",
+              "ToolTip": "C:\\xampp\\htdocs\\test\\ngay5\\BT2.php",
+              "RelativeToolTip": "ngay5\\BT2.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrVOtyoRAFD1\u002BGAxGg8HgQxiMgsU38CF8FINpoxi1Gw2\u002BgFEwGBQ0ChaDQZhvZphv15\u002BFBfc7cMa51ztnzr0wUuATgpt4ZHQRArfIzv7QzROmaXLKsiwygKIo0HVdRFccBJqmQZIk6LoOQRDAcRyey/McZVmKqhP2LdCD/GvbNmnbloRhSKIoItQR8X2fqKr6rGW8tKBpGnfAmGUZ4jgGFcM8z/A8D\u002Bu6isod9g6GYSB0BoQK8dh1XR7TOXBHzNlfLePFwbZt6Pse0zTxmA2vKAqkaYplWVDXNc8fsHdgGMbhBkbmxrIs7uL87\u002BJgHEexe4G5qarqff8UB4E7\u002BF8BQsdx5iccBCRJuvATvm7hq\u002BcMAL/7zbPTrNNOFAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-16T05:51:46.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BT1.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\test\\ngay5\\BT1.php",
+              "RelativeDocumentMoniker": "ngay5\\BT1.php",
+              "ToolTip": "C:\\xampp\\htdocs\\test\\ngay5\\BT1.php",
+              "RelativeToolTip": "ngay5\\BT1.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrVOtyoRAFD1\u002BGAxGg8HgQxiMgsU38CF8FINpoxi1Gw2\u002BgFEwGBQ0ChaDQZhvZphv15\u002BFBfc7cMa51ztnzr0wUuATgpt4ZHQRArfIzv7QzROmaXLKsiwygKIo0HVdRFccBJqmQZIk6LoOQRDAcRyey/McZVmKqhP2LdCD/GvbNmnbloRhSKIoItQR8X2fqKr6rGW8tKBpGnfAmGUZ4jgGFcM8z/A8D\u002Bu6isod9g6GYSB0BoQK8dh1XR7TOXBHzNlfLePFwbZt6Pse0zTxmA2vKAqkaYplWVDXNc8fsHdgGMbhBkbmxrIs7uL87\u002BJgHEexe4G5qarqff8UB4E7\u002BF8BQsdx5iccBCRJuvATvm7hq\u002BcMAL/7zbPTrNNOFAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-16T05:51:42.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BT1.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\test\\ngay6\\BT1.php",
+              "RelativeDocumentMoniker": "ngay6\\BT1.php",
+              "ToolTip": "C:\\xampp\\htdocs\\test\\ngay6\\BT1.php",
+              "RelativeToolTip": "ngay6\\BT1.php",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABYAAAAUAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrVOtyoRAFD1\u002BGAxGg8HgQxiMgsU38CF8FINpoxi1Gw2\u002BgFEwGBQ0ChaDQZhvZphv15\u002BFBfc7cMa51ztnzr0wUuATgpt4ZHQRArfIzv7QzROmaXLKsiwygKIo0HVdRFccBJqmQZIk6LoOQRDAcRyey/McZVmKqhP2LdCD/GvbNmnbloRhSKIoItQR8X2fqKr6rGW8tKBpGnfAmGUZ4jgGFcM8z/A8D\u002Bu6isod9g6GYSB0BoQK8dh1XR7TOXBHzNlfLePFwbZt6Pse0zTxmA2vKAqkaYplWVDXNc8fsHdgGMbhBkbmxrIs7uL87\u002BJgHEexe4G5qarqff8UB4E7\u002BF8BQsdx5iccBCRJuvATvm7hq\u002BcMAL/7zbPTrNNOFAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-16T05:50:36.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BT3.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\test\\ngay6\\BT3.php",
+              "RelativeDocumentMoniker": "ngay6\\BT3.php",
+              "ToolTip": "C:\\xampp\\htdocs\\test\\ngay6\\BT3.php",
+              "RelativeToolTip": "ngay6\\BT3.php",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrVOtyoRAFD1\u002BGAxGg8HgQxiMgsU38CF8FINpoxi1Gw2\u002BgFEwGBQ0ChaDQZhvZphv15\u002BFBfc7cMa51ztnzr0wUuATgpt4ZHQRArfIzv7QzROmaXLKsiwygKIo0HVdRFccBJqmQZIk6LoOQRDAcRyey/McZVmKqhP2LdCD/GvbNmnbloRhSKIoItQR8X2fqKr6rGW8tKBpGnfAmGUZ4jgGFcM8z/A8D\u002Bu6isod9g6GYSB0BoQK8dh1XR7TOXBHzNlfLePFwbZt6Pse0zTxmA2vKAqkaYplWVDXNc8fsHdgGMbhBkbmxrIs7uL87\u002BJgHEexe4G5qarqff8UB4E7\u002BF8BQsdx5iccBCRJuvATvm7hq\u002BcMAL/7zbPTrNNOFAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-16T05:44:30.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BT4.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\test\\ngay9\\BT4.php",
+              "RelativeDocumentMoniker": "ngay9\\BT4.php",
+              "ToolTip": "C:\\xampp\\htdocs\\test\\ngay9\\BT4.php",
+              "RelativeToolTip": "ngay9\\BT4.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAACAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrVOtyoRAFD1\u002BGAxGg8HgQxiMgsU38CF8FINpoxi1Gw2\u002BgFEwGBQ0ChaDQZhvZphv15\u002BFBfc7cMa51ztnzr0wUuATgpt4ZHQRArfIzv7QzROmaXLKsiwygKIo0HVdRFccBJqmQZIk6LoOQRDAcRyey/McZVmKqhP2LdCD/GvbNmnbloRhSKIoItQR8X2fqKr6rGW8tKBpGnfAmGUZ4jgGFcM8z/A8D\u002Bu6isod9g6GYSB0BoQK8dh1XR7TOXBHzNlfLePFwbZt6Pse0zTxmA2vKAqkaYplWVDXNc8fsHdgGMbhBkbmxrIs7uL87\u002BJgHEexe4G5qarqff8UB4E7\u002BF8BQsdx5iccBCRJuvATvm7hq\u002BcMAL/7zbPTrNNOFAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-16T05:44:20.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BT3.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\test\\ngay9\\BT3.php",
+              "RelativeDocumentMoniker": "ngay9\\BT3.php",
+              "ToolTip": "C:\\xampp\\htdocs\\test\\ngay9\\BT3.php",
+              "RelativeToolTip": "ngay9\\BT3.php",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrVOtyoRAFD1\u002BGAxGg8HgQxiMgsU38CF8FINpoxi1Gw2\u002BgFEwGBQ0ChaDQZhvZphv15\u002BFBfc7cMa51ztnzr0wUuATgpt4ZHQRArfIzv7QzROmaXLKsiwygKIo0HVdRFccBJqmQZIk6LoOQRDAcRyey/McZVmKqhP2LdCD/GvbNmnbloRhSKIoItQR8X2fqKr6rGW8tKBpGnfAmGUZ4jgGFcM8z/A8D\u002Bu6isod9g6GYSB0BoQK8dh1XR7TOXBHzNlfLePFwbZt6Pse0zTxmA2vKAqkaYplWVDXNc8fsHdgGMbhBkbmxrIs7uL87\u002BJgHEexe4G5qarqff8UB4E7\u002BF8BQsdx5iccBCRJuvATvm7hq\u002BcMAL/7zbPTrNNOFAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-16T04:59:08.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BT2.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\test\\ngay9\\BT2.php",
+              "RelativeDocumentMoniker": "ngay9\\BT2.php",
+              "ToolTip": "C:\\xampp\\htdocs\\test\\ngay9\\BT2.php",
+              "RelativeToolTip": "ngay9\\BT2.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrVOtyoRAFD1\u002BGAxGg8HgQxiMgsU38CF8FINpoxi1Gw2\u002BgFEwGBQ0ChaDQZhvZphv15\u002BFBfc7cMa51ztnzr0wUuATgpt4ZHQRArfIzv7QzROmaXLKsiwygKIo0HVdRFccBJqmQZIk6LoOQRDAcRyey/McZVmKqhP2LdCD/GvbNmnbloRhSKIoItQR8X2fqKr6rGW8tKBpGnfAmGUZ4jgGFcM8z/A8D\u002Bu6isod9g6GYSB0BoQK8dh1XR7TOXBHzNlfLePFwbZt6Pse0zTxmA2vKAqkaYplWVDXNc8fsHdgGMbhBkbmxrIs7uL87\u002BJgHEexe4G5qarqff8UB4E7\u002BF8BQsdx5iccBCRJuvATvm7hq\u002BcMAL/7zbPTrNNOFAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-16T04:48:49.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BT1.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\test\\ngay9\\BT1.php",
+              "RelativeDocumentMoniker": "ngay9\\BT1.php",
+              "ToolTip": "C:\\xampp\\htdocs\\test\\ngay9\\BT1.php",
+              "RelativeToolTip": "ngay9\\BT1.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrVOtyoRAFD1\u002BGAxGg8HgQxiMgsU38CF8FINpoxi1Gw2\u002BgFEwGBQ0ChaDQZhvZphv15\u002BFBfc7cMa51ztnzr0wUuATgpt4ZHQRArfIzv7QzROmaXLKsiwygKIo0HVdRFccBJqmQZIk6LoOQRDAcRyey/McZVmKqhP2LdCD/GvbNmnbloRhSKIoItQR8X2fqKr6rGW8tKBpGnfAmGUZ4jgGFcM8z/A8D\u002Bu6isod9g6GYSB0BoQK8dh1XR7TOXBHzNlfLePFwbZt6Pse0zTxmA2vKAqkaYplWVDXNc8fsHdgGMbhBkbmxrIs7uL87\u002BJgHEexe4G5qarqff8UB4E7\u002BF8BQsdx5iccBCRJuvATvm7hq\u002BcMAL/7zbPTrNNOFAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-16T03:39:52.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BT4.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\test\\ngay8\\BT4.php",
+              "RelativeDocumentMoniker": "ngay8\\BT4.php",
+              "ToolTip": "C:\\xampp\\htdocs\\test\\ngay8\\BT4.php",
+              "RelativeToolTip": "ngay8\\BT4.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrVOtyoRAFD1\u002BGAxGg8HgQxiMgsU38CF8FINpoxi1Gw2\u002BgFEwGBQ0ChaDQZhvZphv15\u002BFBfc7cMa51ztnzr0wUuATgpt4ZHQRArfIzv7QzROmaXLKsiwygKIo0HVdRFccBJqmQZIk6LoOQRDAcRyey/McZVmKqhP2LdCD/GvbNmnbloRhSKIoItQR8X2fqKr6rGW8tKBpGnfAmGUZ4jgGFcM8z/A8D\u002Bu6isod9g6GYSB0BoQK8dh1XR7TOXBHzNlfLePFwbZt6Pse0zTxmA2vKAqkaYplWVDXNc8fsHdgGMbhBkbmxrIs7uL87\u002BJgHEexe4G5qarqff8UB4E7\u002BF8BQsdx5iccBCRJuvATvm7hq\u002BcMAL/7zbPTrNNOFAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-16T03:37:47.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BT1_BT2.php",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\test\\ngay8\\BT1_BT2.php",
+              "RelativeDocumentMoniker": "ngay8\\BT1_BT2.php",
+              "ToolTip": "C:\\xampp\\htdocs\\test\\ngay8\\BT1_BT2.php",
+              "RelativeToolTip": "ngay8\\BT1_BT2.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEZSURBVDhPrVOtyoRAFD1\u002BGAxGg8HgQxiMgsU38CF8FINpoxi1Gw2\u002BgFEwGBQ0ChaDQZhvZphv15\u002BFBfc7cMa51ztnzr0wUuATgpt4ZHQRArfIzv7QzROmaXLKsiwygKIo0HVdRFccBJqmQZIk6LoOQRDAcRyey/McZVmKqhP2LdCD/GvbNmnbloRhSKIoItQR8X2fqKr6rGW8tKBpGnfAmGUZ4jgGFcM8z/A8D\u002Bu6isod9g6GYSB0BoQK8dh1XR7TOXBHzNlfLePFwbZt6Pse0zTxmA2vKAqkaYplWVDXNc8fsHdgGMbhBkbmxrIs7uL87\u002BJgHEexe4G5qarqff8UB4E7\u002BF8BQsdx5iccBCRJuvATvm7hq\u002BcMAL/7zbPTrNNOFAAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-09-16T03:37:39.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

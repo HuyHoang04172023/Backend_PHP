@@ -1,6 +1,8 @@
 <?php
 
 $name = "NguyenHuyHoang";
-echo strlen($name);
+echo "String: ".$name;
+echo "<br>";
+echo "Length of string: ".strlen($name);
 
 ?>

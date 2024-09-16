@@ -2,10 +2,12 @@
 
 session_start();
 
+//Reset
 if(isset($_POST['reset'])){
     $_SESSION['workList'] = [];
 }
 
+//Get work list in session
 if (isset($_SESSION['workList'])) {
     $workList = $_SESSION['workList'];
 } else {
@@ -42,14 +44,11 @@ if(isset($_POST['save'])){
     $_SESSION['workList'] = $workList;
 }
 
-
-
 //Delete
 if(isset($_POST['delete'])){
     unset($workList[$_POST['id']]);
     $_SESSION['workList'] = $workList;
 }
-
 
 ?>
 

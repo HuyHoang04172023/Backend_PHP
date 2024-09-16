@@ -25,9 +25,9 @@ class Rectangle {
     }
 }
 
-$obj = new Rectangle(5,6);
+$rect = new Rectangle(5,6);
 
-echo "Area: ".$obj->area()."<br>";
-echo "Perimeter: ".$obj->perimeter()."<br>";
+echo "Area: ".$rect->area()."<br>";
+echo "Perimeter: ".$rect->perimeter()."<br>";
 
 ?>

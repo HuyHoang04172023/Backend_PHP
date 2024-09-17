@@ -1,0 +1,55 @@
+Q1:Hãy giải thích cách PHP xử lý một yêu cầu từ trình duyệt? (5 điểm)
+1. Trình duyệt gửi yêu cầu HTTP đến máy chủ web.
+2. Máy chủ web chuyển yêu cầu đến trình thông dịch PHP.
+3. PHP xử lý yêu cầu, thực thi mã PHP.
+4. PHP trả kết quả cho máy chủ web.
+5. Máy chủ web gửi phản hồi (HTML, JSON,...) về trình duyệt.
+
+Q2: Trình bày sự khác biệt giữa mảng chỉ số và mảng kết hợp trong PHP. (5 điểm)
+Định nghĩa: Mảng chỉ số là mảng mà các phần tử được đánh chỉ mục bằng các số nguyên (bắt đầu từ 0).
+Định nghĩa: Mảng kết hợp là mảng mà các phần tử được đánh chỉ mục bằng các khóa (key), có thể là chuỗi hoặc số nguyên.
+Mảng chỉ số sử dụng các chỉ số nguyên (0, 1, 2, ...) để truy cập phần tử.
+Mảng kết hợp sử dụng các khóa do người dùng định nghĩa (chuỗi hoặc số) để truy cập phần tử.
+
+
+Q3: Cho biết cách sử dụng global và static trong PHP để thay đổi phạm vi của biến. (5 điểm)
+-GLOBAL:
+Mục đích: Giúp truy cập các biến toàn cục (biến khai báo bên ngoài hàm) từ bên trong một hàm.
+Cách hoạt động: Khi khai báo một biến với từ khóa global trong hàm, ta có thể truy cập và thay đổi giá trị của biến toàn cục tương ứng mà không cần truyền nó qua tham số.
+Ví dụ: 
+$x = 10;
+function testGlobal() {
+    global $x;
+    $x = $x + 5;
+}
+
+testGlobal();
+echo $x;  // Kết quả: 15
+
+-STATIC:
+Mục đích: Giữ giá trị của biến cục bộ giữa các lần gọi hàm, tức là biến chỉ được khởi tạo một lần duy nhất và duy trì giá trị của nó trong suốt các lần gọi hàm tiếp theo.
+Cách hoạt động: Khi khai báo một biến trong hàm với từ khóa static, biến này chỉ được khởi tạo một lần và giữ giá trị của nó ngay cả khi hàm kết thúc.
+Ví dụ:
+function testStatic() {
+    static $x = 0;
+    $x++;
+    echo $x;
+}
+
+testStatic();  // Kết quả: 1
+testStatic();  // Kết quả: 2
+testStatic();  // Kết quả: 3
+
+
+Q4: Hàm strpos() trong PHP có chức năng gì? Viết cú pháp và một ví dụ minh họa. (5 điểm)
+-Định nghĩa: Hàm strpos() tìm vị trí xuất hiện đầu tiên của một chuỗi bên trong một chuỗi khác.
+-Cú pháp:
+strpos(string,find,start)
+string: Bắt buộc. Chỉ định chuỗi để tìm kiếm.
+find: Bắt buộc. Chỉ định chuỗi muốn tìm kiếm.
+start: Không bắt buộc. Chỉ định nơi bắt đầu tìm kiếm. (Trường hợp là số âm thì sẽ tìm kiếm từ cuối chuỗi đến đầu chuỗi).
+-Ví dụ:
+<?php
+echo strpos("Hello hello hello world!","hello"); //Kết quả: 6
+?>
+

@@ -45,8 +45,8 @@ function deleteWork($id){
     echo "Delete work successful with work ID is $id<br>";
 }
 
+/*------------------------------------------------------*/
 $workList = [];
-
 insertWork("Update Task 1","20-11-2024","Doing");
 insertWork("Create Task 2","23-09-2024","Pending");
 showWork();
@@ -56,6 +56,6 @@ showWork();
 
 deleteWork("1");
 showWork();
-
+/*------------------------------------------------------*/
 
 ?>

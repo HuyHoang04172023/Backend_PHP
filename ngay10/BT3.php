@@ -11,15 +11,22 @@ if(isset($_POST['submit'])){
     $check = true;
     $name = test_input($_POST['name']);
     $email = test_input($_POST['email']);
+    $phone = test_input($_POST['phone']);
     $password = test_input($_POST['password']);
 
     if(!filter_var($email, FILTER_VALIDATE_EMAIL)){
         $emailErr = "Invalid email format!";
         $check = false;
     }
-
-    if(strlen($password) < 6){
-        $passwordErr = "Password must be at least 6 characters long.";
+    
+    $pattern = "/^(\+84|0)(3|5|7|8|9)[0-9]{8}$/";
+    if(!preg_match($pattern, $phone)){
+        $phoneErr = "Invalid phone number format!";
+        $check = false;
+    }
+    
+    if(strlen($password) < 8){
+        $passwordErr = "Password must be at least 8 characters long.";
         $check = false;
     }
 }
@@ -47,6 +54,12 @@ if(isset($_POST['submit'])){
         <span><?php echo $emailErr ?></span><br>
         <?php endif;?>
 
+        <label for="phone">Phone</label><br>
+        <input type="text" name="phone" id="phone"><br>
+        <?php if(isset($phoneErr)) :?>
+        <span><?php echo $phoneErr ?></span><br>
+        <?php endif;?>
+
         <label for="password">Password</label><br>
         <input type="password" name="password" id="password"><br>
         <?php if(isset($passwordErr)) :?>
@@ -57,12 +70,12 @@ if(isset($_POST['submit'])){
     </form>
 </body>
 </html>
-
 <?php
 if(isset($_POST['submit'])){
     if($check == true){
         echo "Name: ".$name."<br>";
         echo "Email: ".$email."<br>";
+        echo "Phone: ".$phone."<br>";
         echo "Password: ".$password."<br>";
     }
 }

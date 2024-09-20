@@ -1,9 +1,9 @@
 <?php
 
 class Car {
-    public $brand;
-    public $model;
-    public $year;
+    private $brand;
+    private $model;
+    private $year;
 
     function __construct($brand,$model,$year){
         $this->brand = $brand;
@@ -26,8 +26,8 @@ class Car {
 
 $honda = new Car("Honda","Normal",2024);
 
-echo $honda->get_brand()."<br>";
-echo $honda->get_model()."<br>";
-echo $honda->get_year()."<br>";
+echo "Brand: ".$honda->get_brand()."<br>";
+echo "Model: ".$honda->get_model()."<br>";
+echo "Year: ".$honda->get_year()."<br>";
 
 ?>

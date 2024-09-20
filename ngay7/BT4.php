@@ -1,8 +1,8 @@
 <?php
 
 class Rectangle {
-    public $length;
-    public $width;
+    private $length;
+    private $width;
 
     function __construct($length, $width){
         $this->length = $length;

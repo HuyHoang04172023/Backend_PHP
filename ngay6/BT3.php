@@ -58,7 +58,7 @@ if(isset($_POST['markComplete'])) {
     $id = test_input($_POST['workId']);
     $workList[$id]['status'] = 'completed';
     $_SESSION['workList'] = $workList;
-} else if (isset($_POST['workId']) && !isset($_POST['update'])) {
+} else if (isset($_POST['workId']) && !isset($_POST['update']) && !isset($_POST['delete'])) {
     $id = test_input($_POST['workId']);
     $workList[$id]['status'] = 'doing';
     $_SESSION['workList'] = $workList;

@@ -1,8 +1,8 @@
 <?php
 class Employee {
-    protected $name;
-    protected $age;
-    protected $position;
+    private $name;
+    private $age;
+    private $position;
 
     public function __construct($name, $age, $position) {
         $this->name = $name;
@@ -44,7 +44,7 @@ $employee2 = new Employee("Hoang", 28, "Data Analyst");
 $manager->addEmployee($employee1);
 $manager->addEmployee($employee2);
 
-echo "Manager: " . $manager->getDetails() . "<br>";
+echo $manager->getDetails() . "<br>";
 echo "Total Employees under Manager: " . $manager->getTotalEmployees() . "<br>";
 echo "Managed Employees: <br>" ;
 $manager->showManagedEmployees();

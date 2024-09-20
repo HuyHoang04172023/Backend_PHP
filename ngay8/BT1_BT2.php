@@ -1,8 +1,8 @@
 <?php
 
 class Person{
-    public $name;
-    public $age;
+    private $name;
+    private $age;
 
     function __construct($name, $age){
         $this->name = $name;
@@ -24,7 +24,7 @@ class Person{
 }
 
 class Employee extends Person{
-    public $jobTitle;
+    private $jobTitle;
 
     function get_jobTitle (){
         return $this->jobTitle;

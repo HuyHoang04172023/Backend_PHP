@@ -1,9 +1,15 @@
 <?php
 
 class Student {
-    public $name;
-    public $age;
-    public $grade;
+    private $name;
+    private $age;
+    private $grade;
+
+    function __construct($name,$age,$grade){
+        $this->name = $name;
+        $this->age = $age;
+        $this->grade = $grade;
+    }
 
     function set_name($name){
         $this->name = $name;
@@ -28,14 +34,6 @@ class Student {
     function get_grade(){
         return $this->grade;
     }
-
-
-
 }
-
-
-
-
-
 
 ?>

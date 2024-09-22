@@ -6,22 +6,22 @@ abstract class Animal {
 
 class Cat extends Animal {
   public function makeSound() {
-    echo " Meow ";
+    return " Meow ";
   }
 }
 
 class Dog extends Animal {
   public function makeSound() {
-    echo " Bark ";
+    return " Bark ";
   }
 }
 
 $cat = new Cat();
 $dog = new Dog();
 
- $cat->makeSound();
+ echo "Cat sound: ". $cat->makeSound();
  echo "<br>";
- $dog->makeSound();
+ echo "Dog sound: ".$dog->makeSound();
 
 
 ?>

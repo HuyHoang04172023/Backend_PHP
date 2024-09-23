@@ -16,10 +16,11 @@ class Employee {
 }
 
 class Manager extends Employee {
-    private $employees = [];
+    private $employees;
 
     public function __construct($name, $age, $position) {
         parent::__construct($name, $age, $position);
+        $this->employees = [];
     }
 
     public function addEmployee(Employee $employee) {

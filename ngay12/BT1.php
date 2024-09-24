@@ -1,29 +1,34 @@
 <?php
+// Tên của tập tin
+$filename = "example.txt";
 
-$file = "text.txt";
+// Tạo một tập tin mới và ghi dữ liệu vào
+$file = fopen($filename, "w"); // Mở tập tin với chế độ ghi (write)
+if ($file) {
+    // Ghi dữ liệu vào tập tin
+    $data = "Xin chào! Đây là dữ liệu ghi vào tập tin.\n";
+    fwrite($file, $data);
 
-file_put_contents($file, "1 \n", FILE_APPEND);
-file_put_contents($file, "2 \n", FILE_APPEND);
-file_put_contents($file, "3 \n", FILE_APPEND);
-file_put_contents($file, "4 \n", FILE_APPEND);
-
-echo file_get_contents($file)."<br>";
-
-
-$fileOpen = fopen($file, "r");
-
-if ($fileOpen) {
-    while (($line = fgets($fileOpen)) !== false) {
-        echo $line . "<br>";
-    }
-
-    if (!feof($fileOpen)) {
-        echo "Có lỗi xảy ra trong quá trình đọc tệp.\n";
-    }
-
-    fclose($fileOpen);
+    // Đóng tập tin sau khi ghi
+    fclose($file);
+    echo "Đã ghi dữ liệu vào tập tin $filename.<br>";
 } else {
-    echo "Không thể mở tệp.\n";
+    echo "Không thể mở tập tin để ghi.<br>";
 }
 
+// Mở lại tập tin để đọc dữ liệu
+$file = fopen($filename, "r"); // Mở tập tin với chế độ đọc (read)
+if ($file) {
+    // Đọc và hiển thị nội dung của tập tin
+    echo "Nội dung của tập tin $filename:<br>";
+    while (!feof($file)) {
+        // Đọc từng dòng trong tập tin và hiển thị
+        echo fgets($file) . "<br>";
+    }
+
+    // Đóng tập tin sau khi đọc
+    fclose($file);
+} else {
+    echo "Không thể mở tập tin để đọc.<br>";
+}
 ?>

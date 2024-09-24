@@ -29,15 +29,15 @@ if (isset($_POST['insert'])) {
 
   //Validate form
   if (empty($name)) {
-    $nameErr = "Tên không được để trống.";
+    $nameErr = "Name cannot be blank.";
     $validate = false;
   }
   if (!is_numeric($price) || $price <= 0) {
-    $priceErr = "Giá không hợp lệ. Vui lòng nhập số dương.";
+    $priceErr = "Price is invalid. Please enter a positive number.";
     $validate = false;
   }
   if (!is_numeric($quantity) || $quantity <= 0) {
-    $quantityErr = "Số lượng không hợp lệ. Vui lòng nhập một số dương.";
+    $quantityErr = "Invalid quantity. Please enter a positive number.";
     $validate = false;
   }
 
@@ -68,15 +68,15 @@ if (isset($_POST['save'])) {
 
   //Validate form
   if (empty($name)) {
-    $nameUErr = "Tên không được để trống.";
+    $nameUErr = "Name cannot be blank.";
     $validate = false;
   }
   if (!is_numeric($price) || $price <= 0) {
-    $priceUErr = "Giá không hợp lệ. Vui lòng nhập số dương.";
+    $priceUErr = "Price is invalid. Please enter a positive number.";
     $validate = false;
   }
   if (!is_numeric($quantity) || $quantity <= 0) {
-    $quantityUErr = "Số lượng không hợp lệ. Vui lòng nhập một số dương.";
+    $quantityUErr = "Invalid quantity. Please enter a positive number.";
     $validate = false;
   }
 

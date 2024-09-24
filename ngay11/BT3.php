@@ -30,27 +30,27 @@ if(isset($_POST['insert'])){
 
     //Validate form
     if (preg_match('/[0-9]/', $name)) {
-        $nameErr = "Tên không được chứa số.";
+        $nameErr = "Name cannot contain numbers.";
         $validate = false;
     }
 
     if (!is_numeric($age) || $age <= 0) {
-        $ageErr = "Tuổi không hợp lệ. Vui lòng nhập số dương.";
+        $ageErr = "Age is invalid. Please enter a positive number.";
         $validate = false;
     }
 
     if ($age < 1 || $age > 120) {
-        $ageErr = "Tuổi phải nằm trong khoảng từ 1 đến 120.";
+        $ageErr = "Age must be between 1 and 120.";
         $validate = false;
     }
 
     if (!is_numeric($grade)) {
-        $gradeErr = "Điểm không hợp lệ. Vui lòng nhập một số.";
+        $gradeErr = "Invalid score. Please enter a number.";
         $validate = false;
     }
 
     if ($grade < 0 || $grade > 10) {
-        $gradeErr = "Điểm phải nằm trong khoảng từ 0 đến 10.";
+        $gradeErr = "Score must be between 0 and 10.";
         $validate = false;
     }
 

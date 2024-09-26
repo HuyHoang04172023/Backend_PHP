@@ -1,0 +1,28 @@
+Tham chiêu
+tham tri 
+
+
+web có 3 phần:
+web server(apache)
+back end(php )
+database
+
+session luw trữ ở server
+cookie lưư ở client
+
+Khong lam thay doi du lieu : GET OPTION
+
+POST : tao moi doi tuong
+PUT, PETCH: co san data 
+
+PUT: cap nhat lai toan bo data cua obj, cac gia tri k dien se la null
+PETCH: cap nhat 1 phan, chi cap nhat cac thong tin gui len, tt cu de nguyen
+
+OPTION: check server hoat dong hay Khong
+
+Interface:
+Cho cac obj biet dang cung cap cai gi
+Những gì phụ thuộc vào class là static
+Những gì thuộc về instant thì k khai báo static
+
+

@@ -1,28 +1,24 @@
 <?php
-// Tên của thư mục
 $dir = "new_directory";
 
-// Tạo một thư mục mới nếu chưa tồn tại
 if (!is_dir($dir)) {
     mkdir($dir);
-    echo "Đã tạo thư mục: $dir.<br>";
+    echo "Created folder: $dir.<br>";
 
-    // Tạo một số tập tin trong thư mục
     for ($i = 1; $i <= 3; $i++) {
         $file = fopen("$dir/file_$i.txt", "w");
         if ($file) {
-            fwrite($file, "Đây là nội dung của tập tin file_$i.txt\n");
+            fwrite($file, "Hello World!\n");
             fclose($file);
-            echo "Đã tạo tập tin: file_$i.txt.<br>";
+            echo "File created: file_$i.txt.<br>";
         }
     }
 } else {
-    echo "Thư mục $dir đã tồn tại.<br>";
+    echo "The directory $dir already exists.<br>";
 }
 
-// Liệt kê tất cả các tập tin trong thư mục
 if (is_dir($dir)) {
-    echo "Các tập tin trong thư mục $dir:<br>";
+    echo "Files in directory $dir:<br>";
     if ($dh = opendir($dir)) {
         while (($file = readdir($dh)) !== false) {
             if ($file != "." && $file != "..") {
@@ -33,19 +29,18 @@ if (is_dir($dir)) {
     }
 }
 
-// Xóa tất cả các tập tin trong thư mục
 if (is_dir($dir)) {
-    echo "Đang xóa các tập tin trong thư mục...<br>";
+    echo "Deleting files in folder...<br>";
     $files = scandir($dir);
     foreach ($files as $file) {
         if ($file != "." && $file != "..") {
             unlink("$dir/$file");
-            echo "Đã xóa tập tin: $file<br>";
+            echo "Deleted file: $file<br>";
         }
     }
 
     // Sau khi xóa tập tin, xóa thư mục
     rmdir($dir);
-    echo "Đã xóa thư mục $dir.<br>";
+    echo "Deleted directory $dir.<br>";
 }
 ?>
